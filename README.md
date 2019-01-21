@@ -36,9 +36,9 @@ Detection
 | KDD  | WWW  | WSDM | AAAI | ICML  |
 | ICDM | ICDE | CIKM | CSCW | ICWSM |
 
-
 ### 0. Survey
-- Fake News Detection on Social Media: A Data Mining Perspective (KDD 2017) [```ACM DL```](https://dl.acm.org/citation.cfm?id=3137600) [```PDF```](https://www.kdd.org/exploration_files/19-1-Article2.pdf)
+- Fake News Detection on Social Media: A Data Mining Perspective (KDD 2017) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2488033) [```PDF```](https://www.kdd.org/exploration_files/19-1-Article2.pdf)
+
 
 
 
@@ -47,6 +47,7 @@ Detection
 - Information Credibility on Twitter (WWW 2011) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1963500) [```PDF```](http://chato.cl/papers/castillo_mendoza_poblete_2010_twitter_credibility.pdf)
 - Rumor has it: Identifying Misinformation in Microblogs (EMNLP 2011) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2145602) [```PDF```](https://www.aclweb.org/anthology/D11-1147)
 - Automatic Detection of Rumor on Sina Weibo (MDS 2012) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2350203) [```PDF```](http://wan.poly.edu/KDD2012/forms/workshop/MDS12/doc/mds2012_submission_17.pdf)
+- Faking Sandy: Characterizing and Identifying Fake Images on Twitter during Hurricane Sandy (WWW 2013) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1963500)
 - Prominent Features of Rumor Propagation in Online Social Media (ICDM 2013) [```Xplore```](https://ieeexplore.ieee.org/document/6729605) [```PDF```](http://milab.snu.ac.kr/pub/ICDM2013.pdf)
 - Detect Rumors Using Time Series of Social Context Information on Microblogging Websites (CIKM 2015) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2806607) [```PDF```](http://www.hlt.utdallas.edu/~zywei/paper/spir0728-ma-cikm2015.pdf)
 - False Rumors Detection on Sina Weibo by Propagation Structures (ICDE 2015) [```Xplore```](https://ieeexplore.ieee.org/document/7113322) [```PDF```](http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-rumor.pdf)
@@ -79,8 +80,9 @@ Detection
 
 ### 5. Influence Limitation
 - Limiting the Spread of Misinformation in Social Networks (WWW 2011) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1963499) [```PDF```](https://nidhogg.cs.ucsb.edu/research/tech_reports/reports/2010-02.pdf)
+- Containment of Misinformation Spread in Online Social Networks (WebSci 2012) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2380746)
+- Monitor Placement to Timely Detect Misinformation in Online Social Networks (ICC 2015) [```Xplore```](https://ieeexplore.ieee.org/abstract/document/7248478)
 - Temporal Influence Blocking: Minimizing the Effect of Misinformation in Social Networks (ICDM 2017) [```Xplore```](https://ieeexplore.ieee.org/document/7930030)
-
 
 
 
@@ -98,13 +100,24 @@ Detection
 - FakeNewsTracker: A Tool for Fake News Collection, Detection, and Visualization (CMOT 2018)
 
 
+### 7. Data Collection / Analysis Systems
+- TwitterMonitor: Trend Detection over the Twitter Stream (SIGMOD 2010) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1807306)
+
+
+
+# Dataset
+- [Fake News Corpus](https://github.com/several27/FakeNewsCorpus)\
+- [Fake News Challenge](https://github.com/FakeNewsChallenge)
+
 
 
 ### Contribution
 - `Pull requests`
 
 
+
 ### References
+- [sumeetkr/AwesomeFakeNews](https://github.com/sumeetkr/AwesomeFakeNews)
 - [Social Network Analysis Papers](https://github.com/jihochoi/social-network-analysis-papers)
 - [Stanford Network Analysis Project (SANP)](http://snap.stanford.edu/) @ Stanford
 - [Advanced Social Network Analysis](http://incpaper.snu.ac.kr/index.php/Sna2018spring) @ Seoul National University
