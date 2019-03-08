@@ -125,6 +125,10 @@ Rumor, Fake News, Hoax, Misinformation Detection Papers
 
 
 ## Dataset
+- PLOS ONE 2017
+- ACL 2017, ACL 2018
+- Science 2018
+- FakeNewsNet
 - [Fake News Corpus](https://github.com/several27/FakeNewsCorpus)
 - [Fake News Challenge](https://github.com/FakeNewsChallenge)
 
