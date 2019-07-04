@@ -8,7 +8,7 @@
 ### Overview
 Rumor, Fake News, Hoax, Misinformation / Analysis & Detection Papers
 
-### Table of Contents
+### Table of Contents (TBU)
 0. Survey
 1. Misinformation Analysis
 2. Feature Extraction and ML Approaches
@@ -116,8 +116,9 @@ Rumor, Fake News, Hoax, Misinformation / Analysis & Detection Papers
 - The Hoaxy Misinformation and Fact-Checking Diffusion Network (ICWSM 2018)
 - FakeNewsTracker: A Tool for Fake News Collection, Detection, and Visualization (CMOT 2018)
 - The spreading of misinformation online (PNAS 2016) [`ACM DL`](https://www.pnas.org/content/early/2016/01/02/1517441113)
-
 - Rumor Detection over Varying Time Windows (PLOS ONE 2017) [`PLOS ONE`](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168344)
+
+
 
 ---
 
