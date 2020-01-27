@@ -11,8 +11,8 @@ Rumor, Fake News, Hoax, Misinformation / Analysis & Detection Papers
 ### Table of Contents (TBU)
 0. Survey
 1. Misinformation Analysis
-2. Feature Extraction and ML Approaches
-3. Deep Learning / Network Embedding
+2. Feature Extraction and Machine Learning Approaches
+3. Deep Learning / Graph Neural Network / Network Embedding
 4. Crowd Signal & Crowdsourcing
 5. Cascades
 6. Influence Limitation
@@ -64,6 +64,7 @@ Rumor, Fake News, Hoax, Misinformation / Analysis & Detection Papers
 - False Rumors Detection on Sina Weibo by Propagation Structures (ICDE 2015) [`Xplore`](https://ieeexplore.ieee.org/document/7113322) [`PDF`](http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-rumor.pdf)
 - Fact-checking Effect on Viral Hoaxes: A Model of Misinformation Spread in Social Networks (WWW 2015) [`ACM DL`](https://dl.acm.org/citation.cfm?id=2742572) [`PDF`](https://iris.unito.it/retrieve/handle/2318/1557768/128173/nostro.pdf)
 - Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes (WWW 2016) [`ACM DL`](https://dl.acm.org/citation.cfm?id=2883085) [`PDF`](https://cs.stanford.edu/~srijan/pubs/hoax-www16.pdf)
+- Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation (ICWSM 2020)
 
 
 
