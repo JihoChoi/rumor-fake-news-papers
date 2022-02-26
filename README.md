@@ -134,6 +134,7 @@ Rumor, Fake News, Hoax, Misinformation / Analysis & Detection Papers
 
 ## Dataset
 
+- [`MuMiN`](https://mumin-dataset.github.io/) by Dan Nielsen and Ryan McConville
 - [`FakeNewsNet`](https://github.com/KaiDMML/FakeNewsNet) by Kai Shu @ ASU
 - [`Twitter 15/16 (Rumor)`](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0) by Jing Ma @ CUHK
   - ACL 2017, ACL 2018
